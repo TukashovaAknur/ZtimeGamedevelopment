@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: WallCoffee
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 21300022, guid: 544ed9db2c0f6f84781501e6b28e62c9, type: 3}
+  m_DefaultGameObject: {fileID: 6510771873069162976, guid: ec8c75bb41de8bd4ebb683c076e7a962,
+    type: 3}
+  m_DefaultColliderType: 1
+  m_TilingRules: []
